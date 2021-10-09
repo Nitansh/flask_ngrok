@@ -1,3 +1,3 @@
 # flask_ngrok
 nse tool wrapper
-http://37f3-45-249-86-235.ngrok.io/
+ http://c50d-202-142-121-185.ngrok.io/
